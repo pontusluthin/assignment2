@@ -70,6 +70,10 @@
         "assignment2": {
             "type": "git",
             "url": "git@github.com:pontusluthin/assignment2.git"
+        },
+        "tagenter": {
+            "type": "git",
+            "url": "git@github.com:pontusluthin/assignment2"
         }
     },
     "extra": {
